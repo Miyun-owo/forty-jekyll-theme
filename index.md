@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Here's Miyun!'
+landing-title:'Here's Miyun!'
 description: null
 image: null
 author: null
