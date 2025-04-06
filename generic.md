@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [文學] 風箏
+title: "[文學] 風箏"
 description: Lorem ipsum dolor est
 image: assets/images/pic11.jpg
 nav-menu: true
